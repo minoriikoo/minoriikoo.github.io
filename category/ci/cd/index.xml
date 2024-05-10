@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD | Academic</title>
+    <link>http://localhost:1313/category/ci/cd/</link>
+      <atom:link href="http://localhost:1313/category/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI/CD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/category/ci/cd/</link>
+    </image>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/post/ci-cd/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ci-cd/</guid>
+      <description>&lt;h2 id=&#34;что-это-такое&#34;&gt;Что это такое?&lt;/h2&gt;
+&lt;p&gt;CI/CD - это технология автоматизации тестирования и доставки новых модулей разрабатываемого проекта всем, кто связан с данным продуктом. Проще говоря, это особая практика, концепция, позволяющая создать качественный итоговый проект путём распределения ответственности, то есть ролей, задач в команде, минимизации ошибок, то есть постоянного контроля и тестирования продукта.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
